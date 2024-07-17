@@ -1,2 +1,2 @@
-# CODSOFT
-CodSoft Internship Program.
+# CODSOFT-TASK1
+Landing Page.
